@@ -10,7 +10,7 @@ This Power BI dashboard provides insights into Home Page , Finance Page, sales p
 - Accessories category has lowest profit margin.  
 
 📷 **Dashboard Preview:**  
-![Dashboard Screenshot](dashboard.png)
+https://github.com/sanak1212/PowerBI-Atliq-Hardware/blob/main/Atliq%20Hardware.pdf
 
 🛠️ **Tools Used:**  
 - Power BI  
