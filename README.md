@@ -18,4 +18,4 @@ This Power BI dashboard provides insights into Home Page , Finance Page, sales p
 - DAX  
 - My SQL
 ▶️ **Watch Full Dashboard Explanation:**  
-[YouTube Video Link](https://www.youtube.com/your-video-url)
+https://youtu.be/O6-7kgD4oqM?si=5ijgZ6NBmZsLx_rI
